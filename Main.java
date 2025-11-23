@@ -15,7 +15,7 @@ public class Main {
             }
             text.close();
         } else {
-            System.out.println("invalid numbers");
+            //System.out.println("invalid numbers");
         }
     }
 }
